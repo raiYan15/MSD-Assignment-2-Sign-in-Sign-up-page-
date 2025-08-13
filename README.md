@@ -19,7 +19,7 @@ A clean, responsive login and signup page built with HTML, CSS, and JavaScript.
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](https://via.placeholder.com/400x600?text=Login+Page+Screenshot) <!-- Replace with actual screenshot -->
+![Login Page](https://github.com/raiYan15/MSD-Assignment-2-Sign-in-Sign-up-page-/blob/main/Sign%20in%20.png?raw=true) 
 
 ### Signup Page
 ![Signup Page](https://via.placeholder.com/400x600?text=Signup+Page+Screenshot) <!-- Replace with actual screenshot -->
